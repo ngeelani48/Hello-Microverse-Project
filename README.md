@@ -95,9 +95,9 @@ After you're finished please remove all the comments and instructions!
 
 > It will display Hello Microverse! text in blue color.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Heading h1 display]**
+- **[Blue color]**
+- **[Proper readme template]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
