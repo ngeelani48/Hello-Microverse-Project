@@ -68,27 +68,6 @@ After you're finished please remove all the comments and instructions!
 
 >It is build using HTML and CSS .
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -107,7 +86,7 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-- [Live Demo Link](https://github.com/ngeelani48/Hello-Microverse-Project.git)
+- [Live Demo Link](https://ngeelani48.github.io/Hello-Microverse-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,14 +100,6 @@ After you're finished please remove all the comments and instructions!
 
 In order to run this project you need:
 
-browser
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -136,75 +107,32 @@ Clone this repository to your desired folder:
 
 cd my-folder
 git clone git@github.com:ngeelani48/Hello-Microverse-Project.git
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
 ### Install
 
 Install this project with:
 
 Simply run it in your browser
-<!--
-Example command:
 
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
 Run HTML file in your browser
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
 ### Deployment
 
 You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> 
-
-👤 **Author1**
 
 - ngeelani48: [https://github.com/ngeelani48)
 
@@ -236,8 +164,6 @@ N/A
 
 ## ⭐️ Show your support <a name="support"></a>
 
->
-
 If you like this project please give your valuable comments.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -251,8 +177,6 @@ If you like this project please give your valuable comments.
 I would like to thank Microverse and its team
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
